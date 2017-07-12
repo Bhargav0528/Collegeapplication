@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APPP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="reg_password">Password</string>
+    <string name="register">Register</string>
+    <string name="reg_username">Username</string>
+    <string name="title_activity_user_files">user_files</string>
+    <string name="title_activity_malefemale">Malefemale</string>
+    <string name="title_activity_userinfo">Userinfo</string>
+</resources>
